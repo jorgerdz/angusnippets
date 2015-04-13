@@ -6,7 +6,11 @@ To see a demo go here: http://jorgerdz.github.io/angusnippets
 
 
 ### Getting Started
-Download the code, and include the angusnippets.js and angusnippets.css file in your page. Then add the angusnippets module to your Angular App file, e.g.
+Install with Bower:
+````
+bower install angusnippets
+````
+Or download the code, and include the angusnippets.js and angusnippets.css file in your page. Then add the angusnippets module to your Angular App file, e.g.
 ```html
 var app = angular.module('app', ["angusnippets"]);
 ```
