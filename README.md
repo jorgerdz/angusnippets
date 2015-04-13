@@ -1,4 +1,4 @@
-angucomplete
+angusnippets
 ============
 
 A simple directive for enabling preconfigured text snippets in Angular inputs.
