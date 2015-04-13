@@ -11,11 +11,11 @@
     font-size: 14px;
 }
 
-.angucomplete-holder {
+.angusnippets-holder {
     position: relative;
 }
 
-.angucomplete-dropdown {
+.angusnippets-dropdown {
     border-color: #ececec;
     border-width: 1px;
     border-style: solid;
@@ -32,35 +32,35 @@
     background-color: #ffffff;
 }
 
-.angucomplete-searching {
+.angusnippets-searching {
     color: #acacac;
     font-size: 14px;
 }
 
-.angucomplete-description {
+.angusnippets-description {
     font-size: 14px;
 }
 
-.angucomplete-row {
+.angusnippets-row {
     padding: 5px;
     color: #000000;
     margin-bottom: 4px;
 
 }
 
-.angucomplete-selected-row, .angucomplete-row:hover {
+.angusnippets-selected-row, .angusnippets-row:hover {
     background-color: lightblue;
     color: #ffffff;
 }
 
-.angucomplete-image-holder {
+.angusnippets-image-holder {
     padding-top: 2px;
     float: left;
     margin-right: 10px;
     margin-left: 5px;
 }
 
-.angucomplete-image {
+.angusnippets-image {
     height: 34px;
     width: 34px;
     border-radius: 50%;
@@ -69,7 +69,7 @@
     border-width: 1px;
 }
 
-.angucomplete-image-default {
+.angusnippets-image-default {
     /* Add your own default image here
      background-image: url('/assets/default.png');
     */

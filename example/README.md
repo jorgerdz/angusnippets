@@ -1,4 +1,4 @@
-angucomplete
+angusnippets
 ============
 
-AngularJS Autocomplete Directive
+AngularJS Angusnippets Directive

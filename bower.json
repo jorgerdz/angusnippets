@@ -1,18 +1,18 @@
 {
-  "name": "angucomplete",
+  "name": "angusnippets",
   "version": "1.0.0",
-  "homepage": "http://darylrowland.github.io/angucomplete/",
+  "homepage": "http://jorgerdz.github.io/angusnippets/",
   "authors": [
-    "Daryl Rowland <daryl@cloudyclear.com>"
+    "Jorge Rodríguez <mail@jorgerdz.com>"
   ],
-  "description": "Awesome Autocompleteness for AngularJS",
+  "description": "Text Snippets for AngularJS",
   "keywords": [
-    "autocomplete",
-    "typeahead",
+    "snippets",
+    "text",
     "angularjs"
   ],
   "license": "MIT",
-  "main": "./angucomplete.js",
+  "main": "./angusnippets.js",
   "ignore": [
     "example",
     "bower_components",
